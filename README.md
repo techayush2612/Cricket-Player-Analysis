@@ -1,3 +1,4 @@
+![Cricket Dashboard]
 (CricPlayDashboard.jpg)
 # 🏏 Cricket Player Analysis Dashboard
 
